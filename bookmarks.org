@@ -147,7 +147,7 @@
 * [[http://blogs.histoireglobale.com/][Histoire Globale | Le blog]] :history:
 * [[http://www.pierre-abelard.com/table-traductions.htm][Textes traduits d'Abelard, Heloise et autres]] :moyen_ge:
 * [[http://legacy.fordham.edu/halsall/basis/abelard-histcal.asp][Historia Calamitatum]] :moyen_ge:
-* [[http://nouveau.europresse.com.bases-doc.univ-lorraine.fr/access/ip/default.aspx?un=NANCY2][Europresse]] :
+* [[http://nouveau.europresse.com.bases-doc.univ-lorraine.fr/access/ip/default.aspx?un=NANCY2][Europresse]]
 * [[https://www.ncbi.nlm.nih.gov/books/NBK1116/?term=%s][GeneReviews search]] :g_n_tique:
 * [[https://genome-euro.ucsc.edu/cgi-bin/hgGateway][UCSC Genome Browser Home]] :g_n_tique:
 * [[https://genetools.org/SNPCheck/snpcheck.htm][SNPCheck]] :g_n_tique:
@@ -252,9 +252,9 @@
 * [[https://evidal.vidal.fr/?token=EUv-o9M0PeXYl-5HmpcBSDKhgZriIU_izC-XgLzFgybC_iErcyYspM1E-A7Z0jqn][Vidal]] :ressources:
 * [[https://iecn2016.wordpress.com/2017/09/03/liens-utiles-deuxieme-cycle-de-medecine-iecn/][Liens ECN]] :ressources:
 * [[https://www.medscape.com/medicalstudents][Medscape]] :ressources:
-* [[https://sfcardio.fr/Referentiel-Cardiologie][Cardiologie]] :referentielsiels:
-* [[https://www.cen-neurologie.fr/deuxieme-cycle][Neurologie]] :referentielsiels:
-* [[https://www.hematocell.fr/index.php/enseignement-de-lhematologie-cellulaire/52-enseignement-de-lhematologie-cellulaire-les-principales-maladies-hematologiques][Hématologie]] :referentielsiels:
+* [[https://sfcardio.fr/Referentiel-Cardiologie][Cardiologie]] :referentiels:
+* [[https://www.cen-neurologie.fr/deuxieme-cycle][Neurologie]] :referentiels:
+* [[https://www.hematocell.fr/index.php/enseignement-de-lhematologie-cellulaire/52-enseignement-de-lhematologie-cellulaire-les-principales-maladies-hematologiques][Hématologie]] :referentiels:
 * [[http://biomed-sanity.com/][Covid19 papers]] :medecine:
 * [[https://expertconsult.inkling.com/read/goldman-goldman-cecil-medicine-2-vol-26e/chapter-1/approach-to-medicine][Cecil-Goldman (online)]] :medecine:
 * [[https://litfl.com/ecg-library/basics/][ECG ]] :medecine:
@@ -281,3 +281,4 @@
 * [[javascript:location.href='http://www.citeulike.org/posturl?username=AlexisPraga&bml=nopopup&url=%27+encodeURIComponent(location.href)+%27&title=%27+encodeURIComponent(document.title)][Post to CiteULike]] :to_read:
 * [[https://www.reddit.com/r/AskHistorians/search?q=flair_name%253A%2522Digest%2522&restrict_sr=1][askHistorian digest]] :to_read:
 * [[https://docs.google.com/spreadsheets/d/1w2ZLaNXdl4DkWhMqvv0WBbop2-DrTKmy1Fxxp-T32hw/edit#gid=960294792][Jump rope progress]] :unfiled:
+* [[https://cmdcolin.github.io/awesome-genome-visualization/?latest=true][awesome-genome-visualization]] :genetique:visualisation:
