@@ -1,0 +1,283 @@
+* [[http://www.pssurvival.com/ps/military_fms/fm_21-76_us_army_survival_manual_2006.pdf][US Army Survival Manual (reprint)]] :books:
+* [[http://fas.org/irp/doddir/army/ranger.pdf][Ranger Handbook]] :books:
+* [[https://www.cia.gov/library/center-for-the-study-of-intelligence/csi-publications/books-and-monographs/Tradecraft%20Primer-apr09.pdf][CIA Tradecraft Primer]] :books:
+* [[https://libgen.fun/][Library Genesis]] :books:
+* [[https://1lib.fr/][zlib]] :books:
+* [[https://brumes.wordpress.com/la-bibliotheque-de-la-pleiade-publications-a-venir-reeditions-reimpressions/][La Bibliothèque de la Pléiade – Brumes, blog d'un lecteur]] :books:
+* [[https://en.wikipedia.org/wiki/Great_Books_of_the_Western_World][Great Books of the Western World - Wikipedia]] :books:
+* [[http://chimera.labs.oreilly.com/books/1230000000929/index.html][Parallel and Concurrent Programming in Haskell]] :haskell:
+* [[https://www.seas.upenn.edu/~cis194/spring13/lectures.html][Haskell Lecture notes and assignments]] :haskell:
+* [[https://en.wikibooks.org/wiki/Write_Yourself_a_Scheme_in_48_Hours][Write Yourself a Scheme in 48 Hours - Wikibooks, open books for an open world]] :haskell:
+* [[https://github.com/bitemyapp/learnhaskell][Best Haskell resources]] :haskell:
+* [[http://howistart.org/posts/haskell/1][How I Start.]] :haskell:
+* [[http://stefan.saasen.me/articles/git-clone-in-haskell-from-the-bottom-up/][git clone in Haskell from the bottom up]] :haskell:
+* [[https://ocharles.org.uk/blog/][24 days of Hackage/GHC extensions]] :haskell:
+* [[http://dev.stephendiehl.com/hask/][What I Wish I Knew When Learning Haskell 2.2 ( Stephen Diehl )]] :haskell:
+* [[http://www.haskell.org/haskellwiki/H-99:_Ninety-Nine_Haskell_Problems][H-99: Ninety-Nine Haskell Problems - HaskellWiki]] :haskell:
+* [[http://www.stephendiehl.com/llvm/#chapter-1-introduction][Implementing a JIT Compiler with Haskell and LLVM ( Stephen Diehl )]] :haskell:
+* [[http://www.haskellforall.com/2015/12/how-to-contribute-to-haskell-ecosystem.html][Haskell for all: How to contribute to the Haskell ecosystem]] :haskell:
+* [[https://flannelhead.github.io/projects/blackstar.html][flannelhead's lab - Blackstar]] :haskell:
+* [[https://en.wikibooks.org/wiki/Understanding_Darcs/Patch_theory][Understanding Darcs/Patch theory - Wikibooks, open books for an open world]] :haskell:
+* [[https://www.ahri.net/practical-haskell-programs-from-scratch/][Practical Haskell programs from scratch]] :haskell:
+* [[http://www.cse.chalmers.se/edu/year/2018/course/TDA452/lectures/TestDataGenerators.html][Quickcheck examples]] :haskell:
+* [[http://www.stephendiehl.com/posts/ghc_01.html][Dive into GHC: Pipeline]] :haskell:
+* [[https://gitlab.haskell.org/ghc/ghc/-/wikis/commentary][Starting out with GHC]] :haskell:
+* [[https://hackage.haskell.org/package/base][base: Basic libraries]] :haskell:
+* [[https://gist.github.com/dino-/28b09c465c756c44b2c91d777408e166][A handy illustration of converting between String, Text and ByteString in Haskell]] :haskell:
+* [[https://haskell.pl-a.net/][Haskell Planetarium]] :haskell:
+* [[https://www.haskell.org/onlinereport/haskell2010/][Haskell Report 2010]] :haskell:
+* [[https://williamyaoh.com/posts/2019-10-19-a-cheatsheet-to-json-handling.html][A cheatsheet to JSON handling with Aeson | William Yao]] :haskell:
+* [[https://williamyaoh.com/posts/2019-04-25-lens-exercises.html][Exercises for understanding lenses | William Yao]] :haskell:
+* [[https://github.com/krispo/awesome-haskell][krispo/awesome-haskell: A collection of awesome Haskell links, frameworks, libraries and software. Inspired by awesome projects line.]] :haskell:
+* [[https://mmhaskell.com/blog/2020/2/10/converting-cabal-to-nix][Converting Cabal to Nix! — Monday Morning Haskell]] :haskell:
+* [[https://tech.small-improvements.com/non-flaky-builds-with-nix-flakes-and-hakyll/][Non-Flaky builds with Nix Flakes and Hakyll | Small Improvements Tech]] :haskell:
+* [[https://github.com/rpearce/hakyll-nix-template][rpearce/hakyll-nix-template: Hakyll + Nix starter template]] :haskell:
+* [[https://robertwpearce.com/hakyll-pt-1-setup-initial-customization.html][Hakyll Pt. 1 – Setup & Initial Customization]] :haskell:
+* [[https://github.com/Gabriella439/haskell-nix][Gabriella439/haskell-nix: Nix and Haskell in production]] :haskell:
+* [[https://downloads.haskell.org/ghc/8.10.4/docs/html/users_guide/][ GHC User’s Guide — Glasgow Haskell Compiler 8.10.4 User's Guide]] :haskell:
+* [[https://en.wikibooks.org/wiki/Write_Yourself_a_Scheme_in_48_Hours/Parsing][Write Yourself a Scheme in 48 Hours/Parsing - Wikibooks, open books for an open world]] :haskell:
+* [[http://www.ibm.com/developerworks/linux/library/l-vim-script-1/index.html][Scripting the Vim editor, Part 1: Variables, values, and expressions]] :vim:
+* [[http://vimregex.com/][Vim Regular Expressions 101]] :vim:
+* [[http://rayninfo.co.uk/vimtips.html][Best of VIM Tips, gVIM's Key Features zzapper]] :vim:
+* [[http://stackoverflow.com/questions/1218390/what-is-your-most-productive-shortcut-with-vim?rq=1][productivity - What is your most productive shortcut with Vim? - Stack Overflow]] :vim:
+* [[http://vimgolf.com/][VimGolf - real Vim ninjas count every keystroke!]] :vim:
+* [[http://of-vim-and-vigor.blogspot.fr/2014/04/my-choicest-plugins.html][My Choicest Plugins]] :vim:
+* [[http://zzapper.co.uk/vimtips.html][Best of VIM Tips, gVIM's Key Features zzapper]] :vim:
+* [[http://vimawesome.com/][Vim Awesome]] :vim:
+* [[http://dougblack.io/words/a-good-vimrc.html][A Good Vimrc]] :vim:
+* [[https://bluz71.github.io/2017/05/15/vim-tips-tricks.html][Vim tips]] :vim:
+* [[https://stackoverflow.com/questions/726894/what-are-the-dark-corners-of-vim-your-mom-never-told-you-about][What are the dark corners of Vim your mom never told you about?]] :vim:
+* [[http://tnerual.eriogerg.free.fr/vimqrc.html][VIM Quick Reference Card]] :vim:
+* [[http://unixhelp.ed.ac.uk/vi/ref.html][vi Reference]] :vim:
+* [[http://juanjoalvarez.net/es/detail/2014/sep/19/vim-emacsevil-chaotic-migration-guide/][From Vim to Emacs+Evil chaotic migration guide]] :vim:
+* [[http://vimdoc.sourceforge.net/htmldoc/usr_toc.html][Vim documentation]] :vim:
+* [[https://www.vi-improved.org/recommendations/][Vim recommandations]] :vim:
+* [[https://stackoverflow.com/questions/1218390/what-is-your-most-productive-shortcut-with-vim/][What is your most productive shortcut with Vim?]] :vim:
+* [[http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/][Bayesian Methods for Hackers]] :cs:
+* [[http://matt.might.net/teaching/compilers/spring-2013/][Create a compiler]] :cs:
+* [[http://startupclass.samaltman.com/][How to Start a Startup]] :cs:
+* [[http://cryptopals.com/][The Matasano Crypto Challenges]] :cs:
+* [[http://datasciencemasters.org/][The Open Source Data Science Masters]] :cs:
+* [[http://tensorflow.org/get_started][Getting Started — TensorFlow]] :cs:
+* [[http://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html#693][What Every Computer Scientist Should Know About Floating-Point Arithmetic]] :cs:
+* [[https://github.com/sindresorhus/awesome][sindresorhus/awesome: A curated list of awesome lists]] :cs:
+* [[http://www.kerrickstaley.com/2017/05/29/extracting-chinese-subs-part-1][Extracting Chinese Hard Subs from a Video, Part 1]] :cs:
+* [[http://www.bash2zsh.com/zsh_refcard/refcard.pdf][Zsh reference]] :cs:
+* [[http://www.howardism.org/Technical/Emacs/eshell-present.html][Presenting the Eshell]] :emacs:
+* [[https://github.com/ahyatt/emacs-calc-tutorials][ahyatt/emacs-calc-tutorials: A series of tutorials about emacs-calc]] :emacs:
+* [[http://ehneilsen.net/notebook/orgExamples/org-examples.html][Org-mode : best features in a condensed way]] :emacs:
+* [[https://karthinks.com/software/more-batteries-included-with-emacs/][More batteries included with emacs | Karthinks]] :emacs:
+* [[http://www.howardism.org/Technical/Emacs/eshell-fun.html][Eschewing Zshell for Emacs Shell]] :emacs:
+* [[https://ambrevar.xyz/emacs-eshell/][Eshell as a main shell]] :emacs:
+* [[https://vincent.demeester.fr/articles/meta_publishing_this_website.html][Static site with org mode]] :emacs:
+* [[https://duncan.codes/posts/2019-09-03-migrating-from-jekyll-to-org/index.html][Static website with org-mode, another example]] :emacs:
+* [[https://protesilaos.com/dotemacs/][ Protesilaos config]] :emacs:
+* [[https://github.com/AbstProcDo/Master-Emacs-From-Scratch-with-Solid-Procedures/blob/master/01.semantic-keybinding-en.org][Emacs shortcuts explained]] :emacs:
+* [[https://config.daviwil.com/emacs][Emacs Configuration - config.daviwil.com]] :emacs:
+* [[http://doc.norang.ca/org-mode.html][Org Mode - Organize Your Life In Plain Text!]] :emacs:
+* [[https://orgmode.org/worg/org-tutorials/advanced-searching.html][Advanced searching]] :emacs:
+* [[https://www.labri.fr/perso/nrougier/GTD/index.html][Get Things Done with Emacs]] :emacs:
+* [[https://github.com/jkitchin/org-ref][jkitchin/org-ref: org-mode modules for citations, cross-references, bibliographies in org-mode and useful bibtex tools to go with it.]] :emacs:
+* [[https://www.reddit.com/r/emacs/comments/ng9hyq/good_tutorials_on_orgpublish/][good tutorials on org-publish : emacs]] :emacs:
+* [[http://www.cachestocaches.com/2020/3/org-mode-annotated-bibliography/][Managing my Annotated Bibliography with Emacs' Org Mode]] :emacs:
+* [[https://github.com/philipphoman/org-mode-poster/blob/master/src/org-mode-poster_poster.org][org-mode-poster/org-mode-poster_poster.org at master · philipphoman/org-mode-poster]] :emacs:
+* [[http://www.gigamonkeys.com/book/][Practical Common Lisp <3]] :lisp:
+* [[http://www.iml.ece.mcgill.ca/~stephan/node/13]['Compiling' Your Latex Documents using a Makefile | Stephan Bourduas]] :latex:
+* [[http://berndt-schwerdtfeger.de/sph/sphere.pdf][berndt-schwerdtfeger.de/sph/sphere.pdf]] :latex:
+* [[http://tex.stackexchange.com/questions/1319/showcase-of-beautiful-typography-done-in-tex-friends/24719#24719][big list - Showcase of beautiful typography done in TeX & friends - TeX - LaTeX Stack Exchange]] :latex:
+* [[http://ctan.mines-albi.fr/info/gentle/gentle.pdf][Gentle introduction]] :latex:
+* [[https://tex.stackexchange.com/questions/17579/how-can-i-design-a-book-cover#17585][How can I design a book cover? - TeX - LaTeX Stack Exchange]] :latex:
+* [[http://latex.simon04.net/][LaTeX Beamer Themes]] :latex:
+* [[http://www.artofproblemsolving.com/Wiki/index.php/LaTeX:Symbols][LaTeX:Symbols - AoPSWiki]] :latex:
+* [[http://www.cs.ucc.ie/~dongen/mpost/TreeMenu.html][Marc's MetaPost Page]] :latex:
+* [[http://www.topology.org/tex/conc/mp/][MetaPost example illustrations with source files]] :latex:
+* [[http://www-i6.informatik.rwth-aachen.de/~dreuw/latexbeamerposter.php][Research - LaTeX poster with beamerposter - beamer - a0poster]] :latex:
+* [[http://distrib-coffee.ipsl.jussieu.fr/pub/mirrors/ctan/info/symbols/comprehensive/symbols-a4.pdf][Symbols list]] :latex:
+* [[ftp://ftp.gwdg.de/pub/dante/info/impatient/book.pdf][Tex for the impatient]] :latex:
+* [[http://www.tex.ac.uk/cgi-bin/texfaq2html?introduction=yes][TeX Frequently Asked Questions]] :latex:
+* [[https://bitbucket.org/VictorEijkhout/tex-by-topic/src][VictorEijkhout / TeX by Topic / source / — Bitbucket]] :latex:
+* [[http://www.ntg.nl/doc/wilkins/pllong.pdf][www.ntg.nl/doc/wilkins/pllong.pdf]] :latex:
+* [[http://rosalind.info/problems/locations/][Rosalind : learn bioinformatics by problems]] :cs:
+* [[https://unixsheikh.com/index.html][unixsheikh.com]] :cs:
+* [[http://manpages.bsd.lv/mdoc.html][Practical UNIX Manuals: mdoc]] :cs:
+* [[https://github.com/unixorn/awesome-zsh-plugins#tutorials][unixorn/awesome-zsh-plugins]] :cs:
+* [[https://www.d3-graph-gallery.com/][D3 js example]] :cs:
+* [[https://xeiaso.net/blog/i-was-wrong-about-nix-2020-02-10][I was Wrong about Nix - Xe]] :cs:
+* [[https://www.fast.ai/][fast.ai · Making neural nets uncool again]] :cs:
+* [[https://www.google.com/search?q=pydf2+show+layout&client=firefox-b-d&ei=gRPUYuSrM8HDlwSOyrDgBg&ved=0ahUKEwik8J-1iID5AhXB4YUKHQ4lDGwQ4dUDCA4&uact=5&oq=pydf2+show+layout&gs_lcp=Cgdnd3Mtd2l6EAMyBwghEAoQoAEyBwghEAoQoAE6BwgAEEcQsAM6CggAEOQCELADGAE6BAgAEA06BQgAEIYDSgUIPBIBMkoECEEYAEoECEYYAVD9BVj3DmCpEGgCcAF4AIABiwGIAYAHkgEDMS43mAEAoAEByAENwAEB2gEGCAEQARgJ&sclient=gws-wiz][pydf2 show layout - Google Search]] :cs:
+* [[https://github.com/maitbayev/the-elements-of-statistical-learning][maitbayev/the-elements-of-statistical-learning: My notes and codes (jupyter notebooks) for the "The Elements of Statistical Learning" by Trevor Hastie, Robert Tibshirani and Jerome Friedman]] :cs:
+* [[https://pandas.pydata.org/docs/user_guide/10min.html#selection][10 minutes to pandas — pandas 1.4.3 documentation]] :cs:
+* [[https://nix-tutorial.gitlabpages.inria.fr/nix-tutorial/][Nix tutorial — nix-tutorial documentation]] :nix:
+* [[https://search.nixos.org/packages][NixOS Search - Packages]] :nix:
+* [[https://learnxinyminutes.com/docs/nix/][Learn nix in Y Minutes]] :nix:
+* [[https://status.nixos.org/][NixOS Infra Status]] :nix:
+* [[https://nix.dev/][Welcome to nix.dev — nix.dev documentation]] :nix:
+* [[https://blog.nixbuild.net/posts/2021-04-26-data-science-with-nix-parameter-sweeps.html][Data Science with Nix: Parameter Sweeps]] :nix:
+* [[https://www.reddit.com/r/NixOS/comments/fb1p1o/replacing_dotfiles_with_nix/][Replacing dotfiles with Nix : NixOS]] :nix:
+* [[https://gnuplot.sourceforge.net/demo/][Demos for gnuplot version 5.4]] :gnuplot:
+* [[https://github.com/Gnuplotting/gnuplot-palettes][GitHub - Gnuplotting/gnuplot-palettes: Color palettes for gnuplot]] :gnuplot:
+* [[http://www.gnuplotting.org/][Gnuplotting]] :gnuplot:
+* [[https://www.wolframalpha.com/?=%s][Recherche Wolfram|Alpha: Computational Intelligence]] :cs:
+* [[http://sweets.seriouseats.com/2013/12/the-food-lab-the-best-chocolate-chip-cookies.html][The Food Lab: The Science of the Best Chocolate Chip Cookies | Serious Eats]] :cooking:
+* [[http://www.thefreshloaf.com/][The Fresh Loaf]] :cooking:
+* [[http://www.seriouseats.com/recipes/2012/07/basic-new-york-style-pizza-dough.html][Basic New York-Style Pizza Dough Recipe | Serious Eats]] :cooking:
+* [[https://github.com/hendricius/the-bread-code/blob/master/basics/sourdough.md][the-bread-code/sourdough.md at master · hendricius/the-bread-code · GitHub]] :cooking:
+* [[http://www.goodeatsfanpage.com/gefp/episodebyorder.htm][Good Eats Show Index]] :cooking:
+* [[http://rss.dw.de/xml/DKpodcast_dwn1_en][Deutsch - warum nicht? Series 1 | Learning German | Deutsche Welle]] :german:
+* [[http://www.zeit.de/index][ZEIT ONLINE | Nachrichten, Hintergründe und Debatten]] :german:
+* [[http://www.welt.de/][Nachrichten und aktuelle Informationen aus Politik, Wirtschaft, Sport und Kultur - DIE WELT]] :german:
+* [[http://books.google.fr/books?hl=fr&lr=&id=PlIMBAAAQBAJ&oi=fnd&pg=PP5&dq=ancient+rome&ots=9kLOQRTU0k&sig=rLlw-EXJJ3DHAl3QLKFC0wb_PfM&redir_esc=y#v=onepage&q&f=false]['Greek' and 'Roman' in Latin Medical Texts: Studies in Cultural Change and ... - Google Livres]] :rome:
+* [[http://vici.org/][Archaeological Atlas of Antiquity - Vici.org]] :rome:
+* [[http://www.reddit.com/r/AskHistorians/comments/27j9ra/need_a_few_books_to_read_about_ancient_rome/ci1h3mg][Celebreth comments on Need a few books to read about Ancient Rome]] :rome:
+* [[http://books.google.fr/books?hl=fr&lr=&id=S-VxBAAAQBAJ&oi=fnd&pg=PT8&dq=ancient+rome&ots=JxOylAP1md&sig=oh7gDoQagisJfBiz8JvsvyO8fQw&redir_esc=y#v=onepage&q=ancient%20rome&f=false][Finding Ancient Rome: Walks in the city - Paula Landart - Google Livres]] :rome:
+* [[http://www.omnesviae.org/][OmnesViae: Roman Route Planner- Tabula Peutingeriana and Itinerarium Antonini]] :rome:
+* [[http://books.google.fr/books?id=RuSOBAAAQBAJ&pg=PA223&lpg=PA223&dq=Via+dei+Fori+travaux&source=bl&ots=kmkE9D1KfY&sig=stPdDZgjFHvxZekml-O6R3GUbF4&hl=en&sa=X&ei=3zB8VMaIIcXaaIjZgsAB&redir_esc=y#v=onepage&q=Via%20dei%20Fori%20travaux&f=false][Sur les traces de Rome: Promenades à la recherche de la ville antique - Paula Landart - Google Books]] :rome:
+* [[http://www.reddit.com/r/AskHistorians/comments/1403l7/askhistorians_master_book_list_ii/][History Books]] :history:
+* [[https://news.ycombinator.com/item?id=7583409][Inside the Soviet Army (1982) | Hacker News]] :history:
+* [[http://geacron.com/home-fr/?lang=fr][Atlas Historique du Monde et Chronologies | GeaCron]] :history:
+* [[https://www.youtube.com/playlist?list=PL77A337915A76F660][The Early Middle Ages, 284--1000 with Paul Freedman - YouTube]] :lectures:
+* [[https://www.youtube.com/playlist?list=PL18B9F132DFD967A3][Early Modern England with Keith E. Wrightson - YouTube]] :lectures:
+* [[https://www.youtube.com/playlist?list=PL3A8E6CE294860A24][European Civiliization (1648-1945) with John Merriman - YouTube]] :lectures:
+* [[https://www.youtube.com/playlist?list=PL023BCE5134243987][Introduction to Ancient Greek History with Donald Kagan - YouTube]] :lectures:
+* [[http://oyc.yale.edu/courses][Open Yale Courses]] :lectures:
+* [[http://www.bbc.co.uk/programmes/b006qykl][BBC Radio 4 - In Our Time]] :lectures:
+* [[http://www.openculture.com/freeonlinecourses][1000 Free Online Courses from Top Universities | Open Culture]] :lectures:
+* [[http://ieg-ego.eu/en/threads/crossroads/border-regions/thomas-hoepel-the-french-german-borderlands#Introduction][The French-German Borderlands: Borderlands and Nation-Building in the 19th and 20th Centuries — EGO]] :history:
+* [[http://www.openculture.com/history_free_courses][History: Free Online Courses | Open Culture]] :history:
+* [[http://blogs.histoireglobale.com/][Histoire Globale | Le blog]] :history:
+* [[http://www.pierre-abelard.com/table-traductions.htm][Textes traduits d'Abelard, Heloise et autres]] :moyen_ge:
+* [[http://legacy.fordham.edu/halsall/basis/abelard-histcal.asp][Historia Calamitatum]] :moyen_ge:
+* [[http://nouveau.europresse.com.bases-doc.univ-lorraine.fr/access/ip/default.aspx?un=NANCY2][Europresse]] :
+* [[https://www.ncbi.nlm.nih.gov/books/NBK1116/?term=%s][GeneReviews search]] :g_n_tique:
+* [[https://genome-euro.ucsc.edu/cgi-bin/hgGateway][UCSC Genome Browser Home]] :g_n_tique:
+* [[https://genetools.org/SNPCheck/snpcheck.htm][SNPCheck]] :g_n_tique:
+* [[https://www.ncbi.nlm.nih.gov/tools/primer-blast/index.cgi?LINK_LOC=bookmark&OVERLAP_5END=7&OVERLAP_3END=4&PRIMER_PRODUCT_MIN=70&PRIMER_PRODUCT_MAX=1000&PRIMER_NUM_RETURN=10&PRIMER_MIN_TM=57.0&PRIMER_OPT_TM=60.0&PRIMER_MAX_TM=63.0&PRIMER_MAX_DIFF_TM=3&PRIMER_ON_SPLICE_SITE=0&SEARCHMODE=0&SPLICE_SITE_OVERLAP_5END=7&SPLICE_SITE_OVERLAP_3END=4&SPLICE_SITE_OVERLAP_3END_MAX=8&SPAN_INTRON=off&MIN_INTRON_SIZE=1000&MAX_INTRON_SIZE=1000000&SEARCH_SPECIFIC_PRIMER=on&EXCLUDE_ENV=off&EXCLUDE_XM=off&TH_OLOGO_ALIGNMENT=off&TH_TEMPLATE_ALIGNMENT=off&ORGANISM=Homo%20sapiens&PRIMER_SPECIFICITY_DATABASE=PRIMERDB/genome_selected_species&TOTAL_PRIMER_SPECIFICITY_MISMATCH=1&PRIMER_3END_SPECIFICITY_MISMATCH=1&MISMATCH_REGION_LENGTH=5&TOTAL_MISMATCH_IGNORE=6&MAX_TARGET_SIZE=4000&ALLOW_TRANSCRIPT_VARIANTS=off&HITSIZE=50000&EVALUE=30000&WORD_SIZE=7&MAX_CANDIDATE_PRIMER=500&PRIMER_MIN_SIZE=15&PRIMER_OPT_SIZE=20&PRIMER_MAX_SIZE=25&PRIMER_MIN_GC=20.0&PRIMER_MAX_GC=80.0&GC_CLAMP=0&NUM_TARGETS_WITH_PRIMERS=1000&NUM_TARGETS=20&MAX_TARGET_PER_TEMPLATE=100&POLYX=5&SELF_ANY=8.00&SELF_END=3.00&PRIMER_MAX_END_STABILITY=9&PRIMER_MAX_END_GC=5&PRIMER_MAX_TEMPLATE_MISPRIMING_TH=40.00&PRIMER_PAIR_MAX_TEMPLATE_MISPRIMING_TH=70.00&PRIMER_MAX_SELF_ANY_TH=45.0&PRIMER_MAX_SELF_END_TH=35.0&PRIMER_PAIR_MAX_COMPL_ANY_TH=45.0&PRIMER_PAIR_MAX_COMPL_END_TH=35.0&PRIMER_MAX_HAIRPIN_TH=24.0&PRIMER_MAX_TEMPLATE_MISPRIMING=12.00&PRIMER_PAIR_MAX_TEMPLATE_MISPRIMING=24.00&PRIMER_PAIR_MAX_COMPL_ANY=8.00&PRIMER_PAIR_MAX_COMPL_END=3.00&PRIMER_MISPRIMING_LIBRARY=AUTO&NO_SNP=off&LOW_COMPLEXITY_FILTER=on&MONO_CATIONS=50.0&DIVA_CATIONS=1.5&CON_ANEAL_OLIGO=50.0&CON_DNTPS=0.6&SALT_FORMULAR=1&TM_METHOD=1&PRIMER_INTERNAL_OLIGO_MIN_SIZE=18&PRIMER_INTERNAL_OLIGO_OPT_SIZE=20&PRIMER_INTERNAL_OLIGO_MAX_SIZE=27&PRIMER_INTERNAL_OLIGO_MIN_TM=57.0&PRIMER_INTERNAL_OLIGO_OPT_TM=60.0&PRIMER_INTERNAL_OLIGO_MAX_TM=63.0&PRIMER_INTERNAL_OLIGO_MAX_GC=80.0&PRIMER_INTERNAL_OLIGO_OPT_GC_PERCENT=50&PRIMER_INTERNAL_OLIGO_MIN_GC=20.0&PICK_HYB_PROBE=off&NEWWIN=off&NEWWIN=off&SHOW_SVIEWER=true][Primer blast]] :g_n_tique:
+* [[https://wintervar.wglab.org/][InterVar-Genetic variants Interpretation by ACMG/AMP 2015 guideline]] :g_n_tique:
+* [[https://gnomad.broadinstitute.org/][gnomAD]] :g_n_tique:
+* [[https://varsome.com/variant/search?genome=hg38&annotation-mode=germline&cancer-type=&tissue-type=&age=ðnicity=&sex=&patient-phenotypes=&diseases=&zygosity=&inheritance=&family-members-also-affected=&family-segregation=&query=%s][VarSome]] :g_n_tique:
+* [[https://genome-euro.ucsc.edu/cgi-bin/hgPcr][UCSC In-Silico PCR]] :g_n_tique:
+* [[https://genome-euro.ucsc.edu/cgi-bin/hgBlat?command=start][Human BLAT Search]] :g_n_tique:
+* [[https://franklin.genoox.com/clinical-db/home][Franklin]] :g_n_tique:
+* [[https://gatk.broadinstitute.org/hc/en-us/sections/360007226651-Best-Practices-Workflows][Best Practices Workflows – GATK]] :g_n_tique:
+* [[https://cnvcalc.clinicalgenome.org/cnvcalc/][Classification CNV Clingen]] :g_n_tique:
+* [[https://www.proteinatlas.org/][The Human Protein Atlas]] :g_n_tique:
+* [[https://genome-euro.ucsc.edu/cgi-bin/hgTracks?org=Human&db=hg19&position=%s][Human hg19 ctnnb1 UCSC Genome Browser v434]] :g_n_tique:
+* [[https://pfmg2025.aviesan.fr/][Aviesan - Plan France Médecine Génomique 2025 – PFMG 2025]] :g_n_tique:
+* [[https://mobidetails.iurc.montp.inserm.fr/MD/][Homepage - MobiDetails]] :g_n_tique:
+* [[http://varnomen.hgvs.org/][Sequence Variant Nomenclature]] :g_n_tique:
+* [[http://www.saiga-jp.com/kanji_dictionary.html][Japanese Kanji Dictionary]] :japanese:
+* [[http://www.csse.monash.edu.au/~jwb/cgi-bin/wwwjdic.cgi?1C][WWWJDIC: Word Search]] :japanese:
+* [[http://jisho.org/][Denshi Jisho - Online Japanese dictionary]] :japanese:
+* [[https://yonde.itazuraneko.org/novelhtml/8781.html][魔法科高校の劣等生(1)　入学編〈上〉 (電撃文庫)]] :japanese_novel:
+* [[https://docs.google.com/document/d/114_MvdbJe1B8J3znjK266Sl91d-QXd0G-JI00nDngX8/edit][TheMoeWay Novel Event #002 - Google Docs]] :japanese_novel:
+* [[https://support.microsoft.com/en-us/office/use-keyboard-shortcuts-to-create-powerpoint-presentations-ebb3d20e-dcd4-444f-a38e-bb5c5ed180f4][Powerpoints shortcuts]] :windows:
+* [[https://pfmg2025.aviesan.fr/professionnels/preindications-et-mise-en-place/][Préindications génome]] :internat:
+* [[https://www-elsevierelibrary-fr.scd1.univ-fcomte.fr/epubreader/gyncologie-obsttrique15187236][Gynécologie Masson]] :internat:
+* [[https://sides.uness.fr/elearning/course/view.php?id=9081][Cours : [Socle] - DES Génétique médicale]] :internat:
+* [[https://www.theriaque.org/apps/contenu/accueil.php][Thériaque]] :internat:
+* [[https://vpn.univ-fcomte.fr/?page_id=254][La documentation d’accès aux serveurs VPN (janvier 2020) « vpn]] :internat:
+* [[https://mail-edu.univ-fcomte.fr/mail#1][Webmail edu fcomte]] :internat:
+* [[http://axiapp-p.chrub.ad/][aXigate]] :internat:
+* [[https://www.ncbi.nlm.nih.gov/books/n/gene/?term=%s][GeneReviews® - NCBI Bookshelf]] :internat:
+* [[http://glpi/plugins/servicecatalog/front/main.php][GLPI - Tickets]] :internat:
+* [[https://saturne.chu-besancon.fr/chrubox/][Partage fichiers CHU - Chrubox]] :internat:
+* [[https://bugs.gentoo.org/][Gentoo's Bugzilla]] :toolbar:
+* [[https://forums.gentoo.org/][Gentoo Forums]] :toolbar:
+* [[https://packages.gentoo.org/][Gentoo Packages]] :toolbar:
+* [[https://planet.gentoo.org/][Planet Gentoo]] :toolbar:
+* [[https://wiki.gentoo.org/][Gentoo Wiki]] :toolbar:
+* [[http://www.cnrtl.fr/lexicographie/][CNRTL]] :toolbar:
+* [[https://www.histoire-image.org/][L'histoire par l'image |]] :toolbar:
+* [[http://andrea.corbellini.name/2015/05/17/elliptic-curve-cryptography-a-gentle-introduction/][Elliptic Curve Cryptography: a gentle introduction | Andrea Corbellini]] :to_read:
+* [[http://rayli.net/blog/data/top-10-data-mining-algorithms-in-plain-english/][Top 10 data mining algorithms in plain English | rayli.net]] :to_read:
+* [[http://www.linuxvoice.com/issues/005/hack.pdf][hack.pdf]] :to_read:
+* [[http://coding-geek.com/how-shazam-works/][How does Shazam work - Coding Geek]] :to_read:
+* [[http://www.aosabook.org/en/ghc.html][The Architecture of Open Source Applications (Volume 2): The Glasgow Haskell Compiler]] :to_read:
+* [[https://www.reddit.com/r/AskHistorians/comments/3q0rkm/panel_ama_devils_ghosts_heretics_witches_miracles/][Panel AMA: Devils & Ghosts, Heretics & Witches, Miracles & Magic in the Middle Ages : AskHistorians]] :to_read:
+* [[http://worrydream.com/ClimateChange/][What can a technologist do about climate change? A personal view.]] :to_read:
+* [[http://www.scottaaronson.com/blog/?p=2555][Shtetl-Optimized » Blog Archive » Google, D-Wave, and the case of the factor-10^8 speedup for WHAT?]] :to_read:
+* [[http://blog.invisiblethings.org/papers/2015/state_harmful.pdf][State considered harmful - state_harmful.pdf]] :to_read:
+* [[http://paulgraham.com/re.html][The Refragmentation]] :to_read:
+* [[https://www.reddit.com/r/japan/comments/42eovm/what_are_your_thoughtsexperiences_on_racism_in/][What are your thoughts/experiences on racism in Japan? : japan]] :to_read:
+* [[https://www.cs.berkeley.edu/~christos/classics/Feynman.pdf][Feynman: Simulating Physics with Computers (1981) [pdf]]] :to_read:
+* [[https://www.youtube.com/watch?v=jOyfZex7B3E][Sega Saturn CD Cracked after 20 Years]] :to_read:
+* [[https://medium.com/@borja/a-glimpse-into-the-apollo-guidance-computer-8ee06e5e1a5c#.mzgkxj7w0][A Glimpse into the Apollo Guidance Computer — Medium]] :to_read:
+* [[http://corporateeurope.org/sites/default/files/a_spoonful_of_sugar_final.pdf][a_spoonful_of_sugar_final.pdf]] :to_read:
+* [[http://www.sport-passion.fr/conseils/etirements-controverses.php][Etirements : faut-il s'étirer après le vélo ou le footing]] :to_read:
+* [[https://www.youtube.com/watch?v=hyry8mgXiTk][Eric Cline | 1177 BC: The Year Civilization Collapsed - YouTube]] :to_read:
+* [[https://pubs.er.usgs.gov/publication/pp1395][Map projections: A working manual]] :to_read:
+* [[https://www.youtube.com/user/ompvideo/videos][OMP]] :to_read:
+* [[https://fr.wikipedia.org/wiki/Multiplicateur_de_Lagrange][Multiplicateur de Lagrange — Wikipédia]] :to_read:
+* [[http://www.nytimes.com/well/guides/how-to-meditate][How to Meditate - Well Guides - The New York Times]] :to_read:
+* [[https://www.lesswrong.com/posts/xg3hXCYQPJkwHyik2/the-best-textbooks-on-every-subject][The Best Textbooks on Every Subject]] :to_read:
+* [[http://www.college-de-france.fr/site/audio-video/index.htm][Collège de France]] :to_read:
+* [[https://www.google.fr/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0ahUKEwjP_d_cmvvZAhVSzaQKHefGB54QFggpMAA&url=http%3A%2F%2Fmath.columbia.edu%2F~qxma10%2FTB.pdf&usg=AOvVaw2PFuJZYPx42e2LdqV1yWpE][Proofs from THE BOOK (Fourth Edition) - Columbia Math Department]] :to_read:
+* [[https://www.medshake.net/medecine/ECN/statistiques/concours-2016/specialites/][Statistiques ECN 2016 par spécialités]] :to_read:
+* [[https://0xax.gitbooks.io/linux-insides/Booting/linux-bootstrap-1.html][From bootloader to kernel · Linux Inside]] :to_read:
+* [[https://www.canal-u.tv/video/universite_toulouse_ii_le_mirail/reflexions_sur_la_guerre_et_l_etat_a_l_epoque_moderne_de_la_fronde_aux_lumieres_1_joel_cornette.48121][Réflexions sur la guerre et l'État à l'époque moderne (de la Fronde aux Lumières). 1 / Joël Cornette - Université Toulouse-Jean Jaurès (Toulouse II-le Mirail) - Vidéo - Canal-U]] :to_read:
+* [[https://www.reddit.com/r/AskHistorians/comments/bd320j/sunday_digest_interesting_overlooked_posts_april/][Sunday Digest | Interesting & Overlooked Posts | April 08, 2019–April 14, 2019 : AskHistorians]] :to_read:
+* [[http://web.stanford.edu/class/cs166/handouts/100%20Suggested%20Final%20Project%20Topics.pdf][Topics in Advanced Data Structures [pdf]]] :to_read:
+* [[https://www.youtube.com/watch?v=MCs5OvhV9S4][Python Concurrency From the Ground Up: LIVE! - PyCon 2015 - YouTube]] :to_read:
+* [[https://kishuagarwal.github.io/life-of-a-binary.html][Life of a binary | Thoughts of a programmer]] :to_read:
+* [[https://hacks.mozilla.org/2019/05/technical-details-on-the-recent-firefox-add-on-outage/][Technical Details on the Recent Firefox Add-on Outage - Mozilla Hacks - the Web developer blog]] :to_read:
+* [[https://www.reddit.com/r/jazz/wiki/newtojazz][Start ‘em young! : Jazz]] :to_read:
+* [[https://amp.reddit.com/r/marvelstudios/comments/7xzj7k/updated_custom_mcu_viewing_order/][Reddit - marvelstudios - UPDATED Custom MCU Viewing Order]] :to_read:
+* [[javascript:location.href='http://www.citeulike.org/posturl?username=AlexisPraga&bml=nopopup&url='+encodeURIComponent(location.href)+'&title='+encodeURIComponent(document.title)][Post to CiteULike]] :to_read:
+* [[https://www.youtube.com/watch?v=Fzmm87oVQ6c][My personal fight against the modern laptop - YouTube]] :to_read:
+* [[https://expertconsult.inkling.com/read/goldman-goldman-cecil-medicine-2-vol-26e/chapter-369/overview][Overview | Goldman-Cecil Medicine | Psychiatric Disorders in Medical…]] :toolbar:
+* [[http://ccr.sigcomm.org/online/files/p83-keshavA.pdf][How to read papers]] :toolbar:
+* [[https://www.reddit.com/r/emacs/comments/gzivu3/weekly_tipstricketc_thread/][Weekly tips/trick/etc/ thread : emacs]] :toolbar:
+* [[https://www.wolframalpha.com/][Wolfram|Alpha: Computational Intelligence]] :toolbar:
+* [[https://blogs.bl.uk/digitisedmanuscripts/index.html#][Medieval manuscripts blog]] :toolbar:
+* [[http://localhost:6789/][NZBGet]] :toolbar:
+* [[http://localhost:8989/][Sonarr]] :toolbar:
+* [[https://www-elsevierelibrary-fr.scd1.univ-fcomte.fr/bookshelf][Colleges]] :toolbar:
+* [[https://www.dvzine.org/zine/TheDvorakZine.pdf][TheDvorakZine.pdf]] :toolbar:
+* [[https://helpdesk.u-bourgogne.fr/stylesheets/welcome.faces][Helpdesk]] :toolbar:
+* [[https://www.manualslib.com/manual/1161691/Yamaha-Xj6.html?page=70#manual][Changing The Brake Fluid; Drive Chain Slack - Yamaha XJ6 Owner's Manual [Page 70] | ManualsLib]] :toolbar:
+* [[http://nerdfitness.com/blog/2010/08/12/the-definitive-guide-to-parkour-for-beginners/][The Definitive Guide to Parkour For Beginners | Nerd Fitness]] :toolbar:
+* [[http://sublevels.free.fr/oreille-musicale/][L'oreille musicale mnemotechnique]] :toolbar:
+* [[http://michelbaron.phpnet.us/harmonie.htm][Cours d'harmonie]] :toolbar:
+* [[http://www.manga-zone.org/archives/2118.html][ワンピース 第01-68巻 [ONE PIECE vol 01-68] | MANGA ZONE]] :toolbar:
+* [[https://en.wikipedia.org/wiki/Nomenclature_of_monoclonal_antibodies][Nomenclature of monoclonal antibodies - Wikipedia]] :etymology:
+* [[https://druginfo.nlm.nih.gov/drugportal/jsp/drugportal/DrugNameGenericStems.jsp][Generic Name Stems - Drug Information Portal - U.S. National Library of Medicine]] :etymology:
+* [[http://www.studypk.com/articles/nbcot-pharma-cheat-sheet-common-drug-family-name/][NBCOT Pharma Cheat Sheet: Common Drug Family Name - StudyPK]] :etymology:
+* [[http://medymology.com/index.php][Medymology - etymology]] :etymology:
+* [[http://www.bacterio.net/][LPSN - List of Prokaryotic names with Standing in Nomenclature]] :etymology:
+* [[https://www.getbodysmart.com/][Human Anatomy and Physiology | Human Anatomy - GetBodySmart]] :anatomy:
+* [[https://human.biodigital.com/index.html][BioDigital Human: Explore the Body in 3D!]] :anatomy:
+* [[http://www.wikidoc.org/index.php/Main_Page][wikidoc]] :ressources:
+* [[https://medlineplus.gov/][MedlinePlus - Health Information from the National Library of Medicine]] :ressources:
+* [[http://lecrat.fr/][CRAT - Centre de référence sur les agents tératogènes chez la femme enceinte]] :ressources:
+* [[https://evidal.vidal.fr/?token=EUv-o9M0PeXYl-5HmpcBSDKhgZriIU_izC-XgLzFgybC_iErcyYspM1E-A7Z0jqn][Vidal]] :ressources:
+* [[https://iecn2016.wordpress.com/2017/09/03/liens-utiles-deuxieme-cycle-de-medecine-iecn/][Liens ECN]] :ressources:
+* [[https://www.medscape.com/medicalstudents][Medscape]] :ressources:
+* [[https://sfcardio.fr/Referentiel-Cardiologie][Cardiologie]] :referentielsiels:
+* [[https://www.cen-neurologie.fr/deuxieme-cycle][Neurologie]] :referentielsiels:
+* [[https://www.hematocell.fr/index.php/enseignement-de-lhematologie-cellulaire/52-enseignement-de-lhematologie-cellulaire-les-principales-maladies-hematologiques][Hématologie]] :referentielsiels:
+* [[http://biomed-sanity.com/][Covid19 papers]] :medecine:
+* [[https://expertconsult.inkling.com/read/goldman-goldman-cecil-medicine-2-vol-26e/chapter-1/approach-to-medicine][Cecil-Goldman (online)]] :medecine:
+* [[https://litfl.com/ecg-library/basics/][ECG ]] :medecine:
+* [[https://docs.google.com/document/d/1B4Al_NLqeF8O0wkRkz8jQcvOGtMx_D-JjWYShEYbyKE/edit][Planning conférence D4 - Google Docs]] :medecine:
+* [[https://www.dermnetnz.org/topics/][Dermato atlas]] :medecine:
+* [[https://www-elsevierelibrary-fr.scd1.univ-fcomte.fr/pdfreader/neurologie15187927][Neurologie masson]] :medecine:
+* [[https://www-elsevierelibrary-fr.scd1.univ-fcomte.fr/pdfreader/pdiatrie15188373][Pediatrie Masson]] :medecine:
+* [[http://www.hematocell.fr/index.php/enseignement-de-lhematologie-cellulaire][Hémato]] :medecine:
+* [[http://sfendocrino.org/article/999/polycopie-des-enseignants-4eme-edition-2019][Collège endocrino]] :medecine:
+* [[http://cep.splf.fr/edition-2021-du-referentiel-du-college-des-enseignants-de-pneumologie-cep-pour-la-preparation-des-ecn-7eme-edition/][Collège de Pneumologie (CEP) pour la préparation des ECN – CEP]] :medecine:
+* [[https://drive.google.com/drive/folders/1zJr9YXkZyboXKm7ieiFlyKMkjsQ-McS6][Correction Teams - LCA A1/A3 - Google Drive]] :medecine:
+* [[https://www-elsevierelibrary-fr.scd1.univ-fcomte.fr/pdfreader/gntique-mdicale][Génétique Masson]] :medecine:
+* [[https://lecrat.fr/medicament.php][CRAT: médicaments et grossesse]] :medecine:
+* [[https://www-elsevierelibrary-fr.scd1.univ-fcomte.fr/][Collèges]] :medecine:
+* [[https://en.wikipedia.org/wiki/Lagrangian_mechanics#Introduction][Lagrangian mechanics - Wikipedia]] :first_priority:
+* [[https://en.wikipedia.org/wiki/Hamiltonian_mechanics][Hamiltonian mechanics - Wikipedia]] :first_priority:
+* [[http://www.pawsey.org.au/wp-content/uploads/2015/09/Pawsey_HPC_Technology_Update_20150923.pdf][Pawsey_HPC_Technology_Update_20150923.pdf]] :to_read:
+* [[https://www.reddit.com/r/AskHistorians/comments/73jr9j/why_did_the_nazis_exterminate_its_victims_in/][Why did the Nazi's exterminate its victims in concentration camps over time, rather than all at once? : AskHistorians]] :to_read_napoleon:
+* [[https://www.reddit.com/r/AskHistorians/comments/1u0q7t/ama_on_the_napoleonic_wars/][AMA on the Napoleonic Wars : AskHistorians]] :to_read_napoleon:
+* [[https://www.reddit.com/r/AskHistorians/comments/3aayoy/waterloo_200th_anniversary_ama_le_r%C3%AAve_passe/][Waterloo 200th Anniversary AMA - Le Rêve Passe : AskHistorians]] :to_read_napoleon:
+* [[https://www.reddit.com/r/AskHistorians/comments/2aobj6/aux_armes_citoyennes_to_arms_citizens_an_ama_on/][Aux Armes Citoyen(nes) [To Arms Citizens] - An AMA on Bastille Day and the Early Years of the French Revolution : AskHistorians]] :to_read_napoleon:
+* [[https://www.reddit.com/r/AskHistorians/comments/2f8y58/what_were_the_main_differences_between_the/ck75032/][DonaldFDraper comments on What were the main differences between the Austrian and the French armies during the Napoleonic Wars?]] :to_read_napoleon:
+* [[https://www.reddit.com/r/AskHistorians/comments/2furc1/how_was_warfare_conducted_between_18361914/][How was warfare conducted between 1836-1914? : AskHistorians]] :to_read_napoleon:
+* [[javascript:location.href='http://www.citeulike.org/posturl?username=AlexisPraga&bml=nopopup&url=%27+encodeURIComponent(location.href)+%27&title=%27+encodeURIComponent(document.title)][Post to CiteULike]] :to_read:
+* [[https://www.reddit.com/r/AskHistorians/search?q=flair_name%253A%2522Digest%2522&restrict_sr=1][askHistorian digest]] :to_read:
+* [[https://docs.google.com/spreadsheets/d/1w2ZLaNXdl4DkWhMqvv0WBbop2-DrTKmy1Fxxp-T32hw/edit#gid=960294792][Jump rope progress]] :unfiled:
